@@ -49,6 +49,13 @@
    
    }
 
+@media only screen and (max-width: 600px){
+  #own{
+   height:auto;
+   
+   }
+}
+
 *,
 *::before,
 *::after {
