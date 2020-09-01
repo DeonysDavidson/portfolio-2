@@ -55,6 +55,14 @@
    
    }
 }
+#temp{
+      margin-top: 7rem;
+
+}
+#codesand{
+      width: inherit;
+    border-radius: 100%;
+}
 
 *,
 *::before,
